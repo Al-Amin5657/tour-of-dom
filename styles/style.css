@@ -1,0 +1,23 @@
+h2 {
+    color: coral;
+}
+
+#fruits-title {
+    color: blue;
+}
+
+.important-places {
+    color: cornflowerblue
+}
+
+.fruits-container li {
+    color: cyan;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-size {
+    font-size: 2em;
+}
